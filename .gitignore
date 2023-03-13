@@ -1,3 +1,4 @@
+/target/
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -15,4 +16,7 @@
 *.iws
 .idea_modules/
 *.xml
+
+#Ignore the target folder
+target/
 
